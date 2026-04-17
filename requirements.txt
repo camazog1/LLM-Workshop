@@ -1,0 +1,7 @@
+streamlit
+groq
+pandas
+plotly
+scikit-learn
+tiktoken
+sentence-transformers

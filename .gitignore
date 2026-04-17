@@ -1,3 +1,7 @@
+# Secretos y credenciales
+.streamlit/secrets.toml
+.streamlit
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
